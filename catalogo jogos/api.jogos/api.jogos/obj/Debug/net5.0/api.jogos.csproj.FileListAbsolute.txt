@@ -1,0 +1,8 @@
+C:\Users\lucas\Desktop\treinamentos dio dotnet api\catalogo jogos\Api.jogos\api.jogos\obj\Debug\net5.0\api.jogos.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\treinamentos dio dotnet api\catalogo jogos\Api.jogos\api.jogos\obj\Debug\net5.0\api.jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\treinamentos dio dotnet api\catalogo jogos\Api.jogos\api.jogos\obj\Debug\net5.0\api.jogos.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\treinamentos dio dotnet api\catalogo jogos\Api.jogos\api.jogos\obj\Debug\net5.0\api.jogos.AssemblyInfo.cs
+C:\Users\lucas\Desktop\treinamentos dio dotnet api\catalogo jogos\Api.jogos\api.jogos\obj\Debug\net5.0\api.jogos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\treinamentos dio dotnet api\catalogo jogos\Api.jogos\api.jogos\obj\Debug\net5.0\api.jogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\treinamentos dio dotnet api\catalogo jogos\Api.jogos\api.jogos\obj\Debug\net5.0\api.jogos.RazorAssemblyInfo.cache
+C:\Users\lucas\Desktop\treinamentos dio dotnet api\catalogo jogos\Api.jogos\api.jogos\obj\Debug\net5.0\api.jogos.RazorAssemblyInfo.cs
